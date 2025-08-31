@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Fascinate&family=Fascinate+Inline&family=Knewave&family=Outfit:wght@100..900&family=Roboto+Flex:opsz,wght@8..144,100..1000&family=Roboto:ital,wght@0,100..900;1,100..900&family=Rubik+Spray+Paint&display=swap');
+
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+.app {
+  min-height: 100vh;
+  display: grid;
+  background: #FAF5EE;
+}
