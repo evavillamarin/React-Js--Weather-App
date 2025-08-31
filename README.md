@@ -17,7 +17,7 @@ A responsive weather application built with React. Users can search for a city (
 ##  Technologies Used
 
 - **React.js** – UI library leveraging hooks (useState, useEffect, useRef)
-- **Axios** or **fetch** – for handling API calls
+- **fetch** – for handling API calls
 - **OpenWeatherMap API** – to retrieve weather data
 - (Optional) **react-open-weather** component – for display and theming :contentReference[oaicite:3]{index=3}
 - (Optional) UI enhancements:
@@ -31,4 +31,5 @@ A responsive weather application built with React. Users can search for a city (
 1. **Clone the repo**  
    ```bash
    git clone https://github.com/evavillamarin/React-Js--Weather-App.git
+   cd React-Js--Weather-App
 
